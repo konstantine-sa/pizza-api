@@ -1,0 +1,23 @@
+{
+  "name": "pizza-api",
+  "version": "1.0.0",
+  "description": "Mockup API endpoint for PizzaHaus project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantine-sa/pizza-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konstantine-sa/pizza-api/issues"
+  },
+  "homepage": "https://github.com/konstantine-sa/pizza-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
